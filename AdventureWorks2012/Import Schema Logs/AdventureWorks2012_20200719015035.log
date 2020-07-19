@@ -1,0 +1,10 @@
+7/18/2020 9:50:35 PM	This log contains information about the import schema operation into project 'AdventureWorks2012' on computer 'DCSCOB0621AL509' by user 'A097577'.
+7/18/2020 9:50:35 PM	Deserializing model
+7/18/2020 9:50:36 PM	Resolving model
+7/18/2020 9:50:37 PM	Visiting imported model for types
+7/18/2020 9:50:39 PM	Scanning project for duplicate elements
+7/18/2020 9:50:39 PM	Finished duplicate element processing
+7/18/2020 9:51:26 PM	Processing extra files
+7/18/2020 9:51:26 PM	Finished importing Data-tier Application file.
+7/18/2020 9:51:26 PM	A summary of the import was saved to the following location: C:\Users\a097577\source\repos\AdventureWorks2012\AdventureWorks2012\Import Schema Logs\AdventureWorks2012_20200719015035.log
+7/18/2020 9:51:26 PM	Click Finish to continue...
